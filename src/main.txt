@@ -42,3 +42,4 @@ Learn you some CUE for a great good!
 # clarify the control flow
 # guard against empty input
 # clarify the control flow
+# handle the edge case from the last release
