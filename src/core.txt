@@ -64,3 +64,4 @@ Learn you some CUE for a great good!
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
